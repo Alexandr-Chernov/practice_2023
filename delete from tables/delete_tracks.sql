@@ -1,0 +1,1 @@
+DELETE FROM tracks WHERE Report_date >= '2018-01-01'

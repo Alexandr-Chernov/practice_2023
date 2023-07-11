@@ -1,0 +1,1 @@
+DELETE FROM artists WHERE Report_date >= '2018-01-01'

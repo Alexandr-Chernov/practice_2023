@@ -1,0 +1,1 @@
+DELETE FROM days WHERE Report_date >= '2018-01-01'
